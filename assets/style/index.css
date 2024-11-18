@@ -25,6 +25,14 @@ main {
   padding: 20px;
 }
 
+span {
+  font-size: 1.2em;
+}
+
+a{
+  text-decoration: none;
+}
+
 article {
   display: flex;
   flex-direction: column;

@@ -12,8 +12,9 @@ body {
     top: 0;
     left: 0;
     z-index: 1;
-    background-color: #005c8a;
+    background-color: rgba(54, 54, 54, 0.1);
     color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     text-align: center;
     padding: 1em;
   }
@@ -43,8 +44,9 @@ body {
   }
 
   footer { 
-    background-color: #005c8a; 
-    color: white; 
+    background-color: rgba(54, 54, 54, 0.1);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    color: blueviolet; 
     text-align: center; 
     padding: 1em; position: 
     relative; 
